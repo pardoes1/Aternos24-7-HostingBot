@@ -1,21 +1,21 @@
 {
-  "name": "AFK Bot",
+  "name": "Pardoes",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Pardoes",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "ZintuigenCraft.aternos.me:48119",
+    "port": 48119,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -102,
+    "y": -63,
+    "z": 36
   },
   "utils": {
     "auto-auth": {
